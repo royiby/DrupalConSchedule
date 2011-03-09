@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <track kind="Welcome to Drupal">
+    <day name="Monday">
+      <session time="8:30 AM - 9:30 AM" title="Getting started with Drupal(con) " author=" Joshua Brauer">
+        <description>Providing support for Drupal sites large and small and users with a wide variety of experience levels means we hear all kinds of questions about Drupal. This session will cover the most common questions from users about Drupal and how it can work in your enterprise.</description>
+        <presenters>Joshua Brauer, Brenda Boggs, Robert Douglass, Heather James, Kenny Silanskas, Michael Haag, Peter Bull, Kent Gale, jam, Collin Waid, Chris Rutter</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Beginning Drupal " author=" Doug Vann">
+        <description>Bring your laptop and follow along. Starting off we'll cover some quick slides about Drupal terminology, what Drupal is, and how it began. Then, wasting no time, we're going to start with a fresh Drupal welcoming screen and begin building a blog site.You will learn: - History: Not a lot of time on this, but some quick and useful facts. - Terminology: We have our own language. The chats, screencasts, and books make MUCH more sense when you speak the language! - Configuration: We're going to build a BLOG SITE from beginning to end!</description>
+        <presenters>Doug Vann</presenters>
+      </session>
+      <session time="1:30 PM - 2:45 PM" title="The State of Drupal " author=" Dries Buytaert">
+        <description>Dries Buytaert will give his bi-annual State of Drupal talk in the beginning of DrupalCon SF, where he'll discuss where Drupal is and where it is going. In particular, he'll discuss Drupal 7, usability, the Drupal.org redesign, and other developments to Drupal.</description>
+        <presenters>Dries Buytaert</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Drupal 7: What you need to know " author=" Angie Byron">
+        <description>Since February 2008, the community has been hard at work on Drupal 7, which is rapidly nearing completion (or possibly already complete ;)). This revolutionary new release sports literally hundreds of improvements, and Angela Byron, the Drupal 7 co-maintainer, will lead you through the most important ones and how they'll impact your future site building endeavors.</description>
+        <presenters>Angie Byron</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="CCK Demystified " author=" Doug Vann">
+        <description>This whole Content Construction Kit. You see, it's EXTREMELY important that you get it. We're going to take the full hour and get you up to speed with this amazing tool that allows you to use a Graphic User Interface to add fields to your content. Out of the box, all you get is a TITLE and a BODY. With CCK you can add validated EMAIL fields, EMBEDDED MEDIA fields, ADDRESS fields and the list goes on and on.NO SLIDES in this presentation. We're just going to DO IT! And we're going to take our time so it sinks in.</description>
+        <presenters>Doug Vann</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="8:30 AM - 9:30 AM" title="Drupal 7 here we come! " author=" Colleen Carroll">
+        <description>A panel of Palantiri come to you to discuss what they're thinking, planning, and anticipating in D7. Some of the highlights are:What new opportunities does D7 give us? How are we planning on extending D7? What are we most excited about in D7?The panel will consist of the business owners, a themer, a mutant themer/engineer, 4 more enigneers, a UX guide, and a partridge in a pear tree.</description>
+        <presenters>Colleen Carroll, John Albin Wilkins, Ken Rickard, Larry Garfield, Greg Dunlap, Steve Fisher, George DeMet</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Views Demystified - Part 1 " author=" Rain Breaw">
+        <description>Doug Vann &amp; Rain Breaw are teaming up to propose a two-session set on Views, which are intended to work together. These sessions will break Views down into the nuts and bolts. In both sessions, we'll actually *do* the configuration right in front of you, and show variations and even ways to break your setup!Note that these are nitty-gritty sessions for beginners or anyone still fighting with views to get it to do exactly what you want. We will not (really) cover Arguments and Relationships or Theming, which will be covered in other already proposed sessions.</description>
+        <presenters>Rain Breaw, Doug Vann</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Views Demystified - Part 2 " author=" Doug Vann">
+        <description>Doug Vann &amp; Rain Breaw are teaming up to propose a two-session set on Views, which are intended to work together. These sessions will break Views down into the nuts and bolts. In both sessions, we'll actually *do* the configuration right in front of you, and show variations and even ways to break your setup!Note that these are nitty-gritty sessions for beginners or anyone still fighting with views to get it to do exactly what you want. We will not (really) cover Arguments and Relationships or Theming, which will be covered in other already proposed sessions.</description>
+        <presenters>Doug Vann, Rain Breaw</presenters>
+      </session>
+      <session time="1:30 PM - 2:45 PM" title="Open Source in the Cloud Era " author=" Tim O'Reilly">
+        <description>Like it or not, we're building an Internet operating system, a platform that will host everything from mobile phone apps to web apps. The platform wars of the 1980s and 1990s are nothing to the platform wars that are about to erupt on the net, as major players try to solidify their hold on the future. What is the role of open source in this future? How can we build an "internet operating system" of small pieces loosely joined (like Linux, or the Drupal ecosystem) rather than one that is owned by a single platform vendor?</description>
+        <presenters>Tim O'Reilly</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Ubercart for Beginners " author=" Andy Lowe">
+        <description>The Ubercart for beginners session will walk you step by step from installation to your first sale with Ubercart and Drupal. Attendees will be provided with their own (temporary) virtual host so you can walk through the process in real time (assuming the conference network can handle the load).</description>
+        <presenters>Andy Lowe, Lyle Mantooth, Jes Whitman</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="The Drupal Association - Stewards of the Drop " author=" Robert Douglass">
+        <description>Drupal is a phenomenal open source software project with an amazing community. We're experiencing non-stop growth, wider adoption in the non-profit, government, and enterprise WCMS space. We have bigger and better DrupalCons. But what role does the Drupal Association play in all of this? As it turns out, it's a pretty big role. This session will provide a comprehensive overview of what the Drupal Association is, and does, who is behind it all, and where we're going.</description>
+        <presenters>Robert Douglass, Amazon</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Top 100 Useful Contributed Modules " author=" Deborah Fuzetto">
+        <description>Have you ever said to yourself, "There must be a module that does this."? or "Which gallery module should I use?"This session will take a look at 100 contributed modules. With over 4,000 contributed modules available, this session will look at the top 100 most useful modules based on my experience on building Drupal websites. After attending this session, you will leave with a great list of modules that cover a wide range of functionality.</description>
+        <presenters>Deborah Fuzetto</presenters>
+      </session>
+      <session time="1:30 PM - 2:45 PM" title="Open Source in Government " author=" David Cole">
+        <description>Open Source has seen a lot of adoption from government in the last year. David H. Cole, from the New Media Team at the Whitehouse, will introduce the session by talking about the decision to move Whitehouse.gov to Drupal and their future plans to use Drupal and open source to foster citizen engagement. Other panelists will discuss their experiences working with Drupal and open source in government.</description>
+        <presenters>David Cole, Andrew Hoppin, Lee Mosbrucker</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="PHP for NonProgrammers " author=" Diana Montalion Dupuis">
+        <description>This is a friendly programming introduction for people new to coding. We'll take a "Physics for Poets" approach to basic PHP concepts like variables, if/else statements, functions, and hooks. You'll write a little bit of code, speak a little geek, and start down the addictive path of programming logic. Follow up time for one-on-one "What's that?" questions can be arranged after the session.We'll cover: * Variables ($variable = where I store my stuff) * Boolean logic (you can either eat cake OR eat cookies but you must run AND lift weights)</description>
+        <presenters>Diana Montalion Dupuis</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Module Building for Beginners (Drupal 6 and 7) - Intro and Workshop " author=" Chris Shattuck">
+        <description>In the first part of this session session, we'll be building a Drupal module from scratch. Really, from scratch. Virtually no previous experience with Drupal coding is required. So, if you've been wanting to add some custom functionality to a Drupal site, earn some karma points by contributing a kick-ass module, or simply make a sight modification to a form, this session is for you. We'll take a look at some of the differences between Drupal 6 and 7 implementations, so you will gain skills that will be useful for existing and new sites.</description>
+        <presenters>Chris Shattuck, Ezra Barnett Gildesgame</presenters>
+      </session>
+    </day>
+  </track>
+  <track kind="Design, Theme, and Usability">
+    <day name="Monday">
+      <session time="9:45 AM - 10:45 AM" title="PHP for Designers " author=" Emma Jane Hogbin">
+        <description>"And then I saw, $#=//! and wondered if someone was cussing at me in my template files." She shouldn't have been listening to the conversation, but she was and now she couldn't help but interject and say, "Dude! That's PHP!"Have you experienced this conversation? Are you tired of being "that guy"? Do you want to learn the secret hand shake and become fluent in PHP too?If you're comfortable with HTML and looking for a little more, come join us and learn how to dissect, modify and reconstruct the PHP snippets in common template files. More specifically you'll learn how to:</description>
+        <presenters>Emma Jane Hogbin</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Accessibility in Drupal 6 and Drupal 7: Write accessible modules and themes " author=" Katherine Lynch">
+        <description>As technology advances, it is more important than ever to code with web accessibility in mind. Web accessibility measures help users with disabilities related to limitations of vision, hearing, learning, cognition, and motor skills to use the web effectively.This session will feature videos of disabled users interacting with Drupal websites and the admin interface of Drupal 6 and Drupal 7. Through these videos, attendees will be provided with valuable insight into the user experience in many new cases.In this session, attendees will learn about:</description>
+        <presenters>Katherine Lynch</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Theme Preprocess Functions: an Introduction " author=" Carl Wiedemann">
+        <description>How many times has this happened to you: You're theming a Drupal site, writing your CSS and making a few changes to the tpl files here and there. Everything is going great, then suddenly you realize you need to change one of those things that starts with a "$" inside those funny-looking &lt;?php ?&gt; tags. Panic!You exclaim..."Crap! Where does &lt;?php print $content; ?&gt; come from?! How do I change it?!"or maybe...</description>
+        <presenters>Carl Wiedemann</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Theming with Fusion: a new approach for layout and modular styles " author=" Stephanie Pakrul">
+        <description>Fusion is a powerful and supported base theme, with layout and style configuration options built in that you (or your clients) can control through Drupal's UI.In this session we'll cover the basics of Fusion from a themer's point of view, and how it helps you build Drupal themes faster. We'll show you how to use the collapsible regions and theme settings to set up the layout you need, and how to approach creating more sustainable CSS styles in your theme.</description>
+        <presenters>Stephanie Pakrul, Sheena Donnelly</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="CSS3: The Future is Now " author=" Jen Simmons">
+        <description>The next generation of CSS is here, and it's being used on thousands of sites. Drupal 7 makes heavy use of CSS3 in both the Seven and Bartik themes. Come learn about the new styles, and how to use them today. Rounded corners, gradients, translucent color, shadows — forget making images, do it with CSS.I'll be covering the state of cross-browser support and tips for implementing graceful fallbacks. I'll talk about the future and where CSS3 is going. And I'll provide resources on where to learn more.</description>
+        <presenters>Jen Simmons</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Design for Drupal: A Template Approach " author=" Nica Lorber">
+        <description>Whether you're creating an original elaborate design from scratch, or just need to produce someting really quick, this templated approach serves as an excellent tool for sites of all sizes.We will showcase our default Fireworks template which we've developed to illustrate all the Drupal elements native in 90% of all Drupal sites. Beyond outlining basic HTML styles, this templates addresses all the elements in a Drupal website, from admin tabs to error messages.Learn the elements of Drupal design, and create your own template. Or use ours!</description>
+        <presenters>Nica Lorber</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="From Photoshop to Drupal Theme " author=" Todd Nienkerk">
+        <description>Drupal's theme layer is very flexible and can accommodate just about any web design. It's important for designers to remember, however, that they're creating not really creating a page — they're building a complete system to house the all of the site's content.In this session, we will talk about concepting and creating a Drupal-optimized design from a Photoshop-style comp.</description>
+        <presenters>Todd Nienkerk, Aaron Stanush</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Stop Decorating and Start Designing " author=" Samantha Warren">
+        <description>Designers often have the misconception that designing a site for Drupal means that there are limitations that will dictate the overall look and feel of the site. This misconception has given birth to a trend of decorating popular themes rather than designing for content, brand, and emotion. This presentation will be both practical and inspirational; exploring ways for you to get inspired, create a process, and get creative to produce unique and beautiful web designs using Drupal.</description>
+        <presenters>Samantha Warren</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="8:30 AM - 9:30 AM" title="jQuery for Designers and Themers " author=" Bevan Rudge">
+        <description>Small non-intrusive animations and interactions can greatly enhance the user experience and impress website visitors and clients. jQuery and jQuery UI make it easy to add these enhancements with little or no knowledge of javascript. Learn how!</description>
+        <presenters>Bevan Rudge</presenters>
+      </session>
+      <session time="8:30 AM - 9:30 AM" title="Show Don't Tell: Guerilla Usability Testing " author=" Zoey Kroll">
+        <description>Sometimes it takes a good story to get people on your side. Don't let expensive usability labs scare you off. Usability testing provides critical feedback on design decisions, convinces stakeholders to do the right thing -- and can be done on the cheap.This session will show quick usability testing strategies, and will provide an overview of the basic steps involved: how to define a testing methodology, identify participants, facilitate and record sessions, present results and make recommendations.Let's retire our psychic shtick and bring real users to the decision-making table!</description>
+        <presenters>Zoey Kroll</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Accelerated grid theming using NineSixty " author=" Todd Nienkerk">
+        <description>This session will cover the 960.gs grid system and how to implement it in Drupal using the NineSixty theme .Session outline Brief history of grid-based design Philosophy behind 960.gs and how it works Basics of grid-based theming How the NineSixty theme implements and expands on 960.gs</description>
+        <presenters>Todd Nienkerk</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="jQuery, Views, and View Themeing " author=" Jonathan Rowny">
+        <description>With jQuery and Views you can create a wide array of useful widgets and views. From advanced "spreadsheet" style tables to implementing beautiful galleries, jQuery and Views is the way to go. In this session we'll learn:* How to create views * How to theme views with CSS * How to theme views with template files (basic PHP knowledge is a good idea) * How to make your theme interactive with jQuery</description>
+        <presenters>Jonathan Rowny</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Elevating 960gs in Drupal with the Omega theme " author=" Jake Strawn">
+        <description>This session will cover from the basics to advanced usages of 960.gs, and tackle issues including how to start using it to simplify your site layouts and theme setup, how to quickly wireframe your site in a way that will truly represent your final product after design implementations, pushing theming &amp; grid based layouts further with preprocess functionality in your theme layer.</description>
+        <presenters>Jake Strawn</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Theming in Drupal Gardens " author=" Jeff Noyes">
+        <description>This session is an overview of the Drupal Gardens themebuilder. In this session we'll cover:1. Using the Drupal Gardens themebuilder to theme your site 2. The DNA of a Drupal Gardens theme 3. Exporting your theme for use on a non-Drupal Gardens site 4. Future plans - an open dialogAt the end of this session, you'll be an expert at using the themebuilder to create your own themes. In addition, you'll understand how to construct your own DrupalGardens theme (without using the themebuilder)- which could be listed in our public theme area.</description>
+        <presenters>Jeff Noyes, Jesse Beach</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Design and Theming: What's new in Drupal 7? " author=" John Albin Wilkins">
+        <description>Drupal 6 introduced an enhanced templatIng system. For the past 2 years, the community has been striving to make our theming system really shine. But not only has the system been improved with easier to override defaults and more powerful functions, our designers have also given Drupal a make-over. Right from the installation screen, you can see that Drupal cares about the first impression it makes to the design community at large.</description>
+        <presenters>John Albin Wilkins</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Grok Drupal (7) Theming " author=" Laura Scott">
+        <description>So you know your CSS. You have you xhtml down, even are up on HTML5. But Drupal throws so much other stuff at you. What do you do? Where do you start?This session provides an overview of how themes work in Drupal. The technical architecture may seem complex, but it's actually quite simple once you grasp the concepts and structures.Topics covered include: Core templates and how they work together Most-used templates and the variables available Overriding templates for common use cases</description>
+        <presenters>Laura Scott</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Trends in Design and Architecture of Big Drupal Sites " author=" Nick Lewis">
+        <description>There's an annoying number of open ended questions in the drupal community which everyone has an opinion on: 1. What's best practice? Do you use views fields or node teasers? Panels, or blocks? One page layout, or ten? 2. We all know you can theme everything in drupal, but what are the big sites bothering to re theme (or more importantly, what are they leaving alone?) 3. What framework should I use? Zen? 960? or none?</description>
+        <presenters>Nick Lewis</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Theming with Skinr! " author=" Jacine Rodriguez">
+        <description>Skinr is a tool that allows themes to define styles and makes those styles available in Drupal's UI for easy application and reuse. It is a simple, but powerful tool to help you create more flexible themes with a longer shelf-life.In this session, we'll cover: The Basics: How Skinr works and getting it to work with your theme Best practices: Planning, starting with a good base and anticipating the unexpected How to define skins</description>
+        <presenters>Jacine Rodriguez</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Web Typography: Take your Designs from Good to Great " author=" Samantha Warren">
+        <description>Typography is a major component of any well composed web design both in Drupal and beyond. Lets get inspired and look at how offline design can inspire your online designs! In this presentation, Samantha will evaluate interesting offline lettering and discuss how you can translate those principles and leverage CSS3, @font-face, some Drupal modules and new font-as-service web apps to create engaging online typographic experiences.</description>
+        <presenters>Samantha Warren</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="The Magic of Teams: Communication &amp; Collaboration " author=" Colleen Carroll">
+        <description>All too often designers, themers and developers leave a team meeting feeling as if they've been speaking an entirely different language. A great communication and collaboration process solves communication problems by breaking down the designer/themer/developer dialogue into something everyone can understand.Breaking out this process is no easy task, luckily it is something that we have direct experience with at Palantir.net. In this session we will share our insights so that you can build bridges of communication for your outside or in-house teams.</description>
+        <presenters>Colleen Carroll, Steve Fisher</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Theme Ubercart, Make Your Store Shine " author=" Jonathan Rowny">
+        <description>This session will cover everything you need to know about tailoring your Ubercart store to your design. We all love Ubercart, but the default install is rough to say the least. There are some great leaps forward in Ubercart design such as the Prosper theme, but clients often demand incredibly specific elements of a store design that can be difficult to tame.* Theme the node-product.tpl.php page including Attributes * Theme the cart including customizing the fields and cart block * Theme checkout, improving the layout * Theme ubercart buttons and titles</description>
+        <presenters>Jonathan Rowny</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Turning that UX Frown Upside-Down " author=" Steve Fisher">
+        <description>It doesn’t really matter how great you think your website is if your intended user thinks it’s a loser. There are some very easy methods to getting your website headed down the right track and creating a positive user experience (UX) for your target audience.In this session we’ll discuss the steps that lead up to a the launch or re-launch of your website from a down-to-earth UX perspective. Each site is different, so while there are fundamentals there is also a strong need for critical thinking and creative solutions.</description>
+        <presenters>Steve Fisher</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Display Suite - central and clean administration of your object displays " author=" Kristof De Jaeger">
+        <description>There is an enormous choice when it comes to theming your data. The theming layer makes it possible to create suggestions and create an insane amount of template files, you can override existing theming functions, CCK has the display fields screen and with views you can either choose fields, nodes and other display methods. In big projects, this can lead to an unmanageable amount of places where theming can happen.</description>
+        <presenters>Kristof De Jaeger, Michael Zenner</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Drupal 7 UX: Making Drupal Simple to Use for Everyone " author=" Jeff Noyes">
+        <description>Over the past year, the Drupal community has focused on improving the Drupal user experience; making Drupal more friendly to a less technical user-base. Join Jeff Noyes, Acquia's director of user experience, Bojhan Summers and Roy Scholten, members of the D7UX team, for a tour of the Drupal 7 UX project, and thoughts on improving D8.Key takeaways will include:- How did we get here? - A quick review of the Drupal 7 experience strategy &amp; goals - A demonstration of some of the usability improvement highlights in Drupal 7 - Reflections on the process</description>
+        <presenters>Jeff Noyes, Bojhan Somers, Roy Scholten</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="All your html are belong to us #2 - Revenge of the markup " author=" mortendk">
+        <description>Drupal comes with a lot(!) of predefined markup &amp; css. Modules are adding styles and markup to the themes and so themers have limited control over whats going on inside the theme - that works well for some themers - others not so much.. or to put in other words:"WTF does all this bib markup do in my bib site - aaargh for &gt;&gt;--bib--&lt;&lt; sake, Gimme lean mean mother &gt;&gt;--bib--&lt;&lt; 'ing markup"This session is all about controlling and cleaning up the markup.</description>
+        <presenters>mortendk</presenters>
+      </session>
+    </day>
+  </track>
+  <track kind="Under the Hood">
+    <day name="Monday">
+      <session time="9:45 AM - 10:45 AM" title="The Heart of Open Atrium: Context, PURL and Spaces " author=" Young Hahn">
+        <description>In this presentation I'll look at three core technologies that drive the IA and user experience of Open Atrium : Context, PURL and Spaces. I'll explain the history and development of the ideas behind each, explain their respective roles, and show how they can be used together to create something greater than the sum of their parts.</description>
+        <presenters>Young Hahn</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="How Drupal Works: An Architect's Overview " author=" Jeff Eaton">
+        <description>Over the past decade, Drupal has grown from a hobbyist's side project to a world-class CMS framework. For those just joining the party, though, finding information about its design, architecture, and development philosophy can be difficult. Most information exists in API-specific silos, while birds-eye-view introductions focus on site builders rather than developers and architects.</description>
+        <presenters>Jeff Eaton</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="The State of Panels 3 and More of What You Love " author=" Sam Boyer">
+        <description>Panels 3 is a powerful, drag-and-drop content manager and layout tool which can be used build complex Drupal sites without any custom code. It also is based on an extensible API and system of hooks which can be used to extend and alter its core functionality. Sam Boyer, co-maintainer of Panels, will present on the following points:1.) An Overview of the State of Panels 3.0 2.) Demonstration of Essential Panels Functionality 3.) Panels Everywhere: Panelizing Theming 4.) Panels Blueprints: Templating and Parenting Panels 5.) The Future of Panels in Drupal 7</description>
+        <presenters>Sam Boyer</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="20 APIs Every Drupal Developer Should Know " author=" John Snow">
+        <description>Drupal offers a rich framework of APIs for developers to use. There are many invaluable APIs in Drupal core as well as in contributed modules that all developers should be aware of. Whether you are developing a custom module for a site, creating a theme, or developing a contributed module, knowing the APIs that are at your disposal will save you a lot of time and improve the quality of your work. The goal of this session is to give developers a general introduction to several important APIs.This session will provide information on the following:</description>
+        <presenters>John Snow</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="AJAX and Javascript in Drupal7 (for developers) " author=" Randy Fay">
+        <description>Lots of work has gone into AJAX (formerly AHAH) and Javascript in Drupal 7.AJAX is WAY easier to use now, and there are lots of new Javascript/JQuery features, including JQuery UI in core.What is AJAX? AJAX was called AHAH just yesterday (D6), and in the Drupal context it most often means the ability for Drupal forms to dynamically refresh without a page load. So it means cooler forms that don't have to press the submit button all the time - they can dynamically respond to user input.</description>
+        <presenters>Randy Fay, Rob Loach, Katherine Bailey</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Aggregate and import with Feeds! " author=" Alex Barth">
+        <description>Feeds is a powerful new import and aggregation framework for Drupal. You would want to use Feeds if your problem is "I need to aggregate news RSS" or "I need to import these 1000 users from a CSV sheet on my hard disk" or "can I import taxonomy terms from that odd XML file supplied by my city administration?".All of these problems can be addressed with Feeds because they are essentially the same: You've got a source of data somewhere, you'd like to get it into Drupal, parse it and then do something with it.</description>
+        <presenters>Alex Barth</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Drupal site security for coders and themers " author=" Greg Knaddison">
+        <description>When you put your Drupal site online you expose it to a wide world of hackers who have the potential to attack your site. In this session you can learn about some of the most common problems with code in a Drupal site so you'll recognize them and be able to protect against them. Join Drupal security team members Greg Knaddison and Peter Wolanin as they give you the tools to hack your site and the knowledge to protect it.</description>
+        <presenters>Greg Knaddison, Peter Wolanin, Ben Jeavons</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Objectifying PHP " author=" Larry Garfield">
+        <description>After years of being a strictly-procedural framework, Drupal is starting to embrace object-oriented programming in a big way. Views is now mostly object-oriented. The Drupal 7 database layer is entirely object-oriented, with a thin procedural veneer. Unit testing is object-oriented. Various other efforts at media handling, plugins and handlers, and more are leveraging objects.</description>
+        <presenters>Larry Garfield</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="D7UX: How to integrate the core Drupal 7 usability improvements with your module " author=" David Rothstein">
+        <description>Shortcuts and dashboards and overlays and contextual links... oh my!There are a lot of new features in Drupal 7 that were introduced with the aim of making Drupal easier to use, but the truth is this: Although these features and tools have great potential, they won't be very helpful if contributed module authors don't use them. In order to make actual Drupal sites more usable, all the modules on the site - both core and contrib - need to work together to deliver a clear and consistent administrative experience.</description>
+        <presenters>David Rothstein, Katherine Senzee, Gábor Hojtsy</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Drupal as a web services platform using the Services module " author=" Greg Dunlap">
+        <description>The Services module allows Drupal content (nodes, users, taxonomy and more) to be retrieved and saved through a standard API using pluggable communication mechanisms including XMLRPC, JSON and REST. Developers can also easily create their own web services to expose additional integration with contrib modules or your own custom code. In the past the main use of Services has been to provide a way for Flash apps to communicate with Drupal.</description>
+        <presenters>Greg Dunlap, Josh Kopel</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Default theme implementations: a guide for module developers who want sweet love from Morten and JohnAlbin " author=" John Albin Wilkins">
+        <description>You only need to peak into the Views module's issue queue to see horror stories about trying to design sane default theme implementations that appeal to designers and themers. “Needs more classes!” “Too many divs!” “This CSS is awful!” “Earl, make me a pony!”It may seem like designers and themers just like to complain, but there are some simple steps module developers can follow to make their modules every designers’ wet dream.</description>
+        <presenters>John Albin Wilkins</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="8:30 AM - 9:30 AM" title="Parlez vous Internet? Ignore the rest of the world at your own risk. " author=" Gábor Hojtsy">
+        <description>How many people is a lot of people on the Internet? If your business depends on scale and numbers of site visitors, you're missing out on a huge opportunity if you are limited to one language.Here are the facts: 63% of the world's on-line population doesn't speak English. By targeting the top 10 internet languages you can reach 1,444,362,506 people, 83% of everyone on the web.</description>
+        <presenters>Gábor Hojtsy, Robert Douglass</presenters>
+      </session>
+      <session time="8:30 AM - 9:30 AM" title="Batch vs. Queue: an API Smackdown " author=" John VanDyk">
+        <description>The Batch and Queue APIs are a little-known treasure trove of functionality inside Drupal. Many developers have heard about these tangentially but are a little fuzzy on the details and when to use them. In this lucid introduction, you'll learn what these APIs are for as well as when to batch and when to queue. We'll start with the Batch API and cover everything from simple nonprogressive batch processing to progressive batches with and without JavaScript. And then there's the new Queue API.</description>
+        <presenters>John VanDyk</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Leveraging the Chaos tool suite for module development " author=" Roger López">
+        <description>CTools, aka the Chaos tool suite is one of the most popular (#31 as reported by http://drupal.org/project/usage in early January 2010) and arguably least understood modules in the contributions repository. While most users will enable it only because of a dependency (i.e. panels), there are some wonderful gems in this tool kit that simplify module development.In this session I will cover the JavaScript and AJAX tools introduced by CTools. Dependent form widgets Form handling within an AJAX context AJAX Commands Framework Modal windows</description>
+        <presenters>Roger López</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="A Match Made in the Cloud – How to Best Take Advantage of Cloud Technologies with Drupal Sites " author=" Bret Piatt">
+        <description>The secret is out – Drupal has become the ‘go-to’ open source software for the publication and management of website content. By pairing Drupal with cloud technologies there is a whole new world of user benefits well beyond scale and performance.In this session, Bret Piatt, director, technical alliances at Rackspace Hosting and members of the Drupal community will discuss how to best take advantage of cloud technologies with Drupal sites. The panel presentation will address:• Leveraging the cloud ecosystem for managing configuration, code, and backups</description>
+        <presenters>Bret Piatt, Josh Koenig</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Views for developers " author=" Larry Garfield">
+        <description>Views is an incredibly powerful module if you know how to use it. Views is also perhaps the most extensible system in all of Drupal, able to be extended in ways that make it the swiss army knife of data querying, marshalling, and formatting. But how do you extend it cleanly to bend it to your will?This session will attempt to explain the over-arching design of the Views module, and how one goes about writing plugins and handlers. The goal will be to give attendees a sense of how Views is put together, and therefore how to extend it gracefully. Production code samples will be included.</description>
+        <presenters>Larry Garfield</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Challenges of hosting Drupal on AWS " author=" Barry Jaspan">
+        <description>Cloud computing offers many advantages for hosting Drupal sites but also presents several unique challenges. This talk will discuss specific issues we've encountered while building Acquia Hosting and Drupal Gardens on Amazon Web Services (AWS) and how we address them. Topics will include:* Load balancing: Elastic IP vs. Elastic Load Balancing * Handling user-uploaded files with multiple web nodes * Achieving true high-availability with multiple availability zones * Coping with variable CPU, disk, and network performance</description>
+        <presenters>Barry Jaspan</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Page render drill down in Drupal 7 " author=" Moshe Weitzman">
+        <description>Join Moshe Weitzman for deep dive into the page render system for Drupal 7. We'll learn how to build and theme a standard page callback. Then we'll evaluate various alternatives for modifying the page, to meet some hypothetical user experience requirements. Learn more about: Build a drupal_render() array in a menu callback. Learn to differentiate between key properties such as #type, #theme, #theme_wrappers, #pre_render, ... Change the $page during hook_page_alter(). Move some blocks, alter text, etc.</description>
+        <presenters>Moshe Weitzman</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Apache Solr Search Mastery " author=" James McKinney">
+        <description>This session is for those who are excited by the great power of Apache Solr search for Drupal and want to take things even further. Do you want take complete control over your search interface and offer more than the default features? Have you ever wondered what it takes to add data to your search index? Curious about defining facets, custom sorting, or making cool new widgets for filtering and faceting? Join us for a technical deep dive into the world of Solr search.Introducing the Solr index Learn about Solr fields, and how to map Drupal data onto them</description>
+        <presenters>James McKinney, Robert Douglass, Peter Wolanin</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="2.4 million page views per day, 60 M per month, one server! " author=" Khalid Baheyeldin">
+        <description>In this talk, Khalid will talk about a how to scale a Drupal web site with the following statistics: 61 million page views per month 14.24 million visits per months 132,650 visits per hour peak 539,000 visits on peak day 2.4 million pages per day peak The web site runs on a single mid range server ...We will discuss how we: How to tune the LAMP stack for optimal performance How to keep things simple and maintainable How to monitor the entire hardware and software stack</description>
+        <presenters>Khalid Baheyeldin</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="How Drupal 7 Fields are changing the way you write modules " author=" Damien Tournoud">
+        <description>Drupal 7 introduced the notion of Fields, small pieces of data you can add to several kind of Entities. Several key modules are getting completely written to take advantage of this powerful concept in their Drupal 7 versions.In this session we will show how Fields are changing the way we write modules, for the better.From columns to fieldsIn the beginning, there was tables and columns. Now here are fields, a dynamic way to build data models.From nodes, users and comments to entities</description>
+        <presenters>Damien Tournoud</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="CCK to Fields: Getting There From Here " author=" Karen Stevenson">
+        <description>Fields in Core will be exciting and powerful, but we still have some work ahead of us. Now it's time to figure out how to get there from where we are now. Hundreds of developers need to update their CCK-related modules, and thousands of administrators will need to update their data. Plus not everything about CCK made it into core. Which modules and functionality were left behind, and why?</description>
+        <presenters>Karen Stevenson</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="The Future Of MySQL: Forks, Patches And Decisions " author=" Narayan Newton">
+        <description>MySQL has been the default database for most web applications for years now. It is a standard in the community and is the bar by which everyone else is judged, for good and bad. However, things are mostly definitely changing. The trend for the last year has been major developments outside of MySQL AB, funded by everyone from Google to Percona to MontyProgram. In fact, the 5.4 release of MySQL is little more than a re-packaging of external patches. This is a far cry from an earlier MySQL AB driven development model.</description>
+        <presenters>Narayan Newton</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Performance testing The Economist Online using The Grinder " author=" David Strauss">
+        <description>At The Economist, we developed a load testing framework using an open source Java-based tool called The Grinder. We've had great success running sophisticated virtual user scripts, that accurately reproduce real user interactions on our Drupal site.In this session, David Strauss (Four Kitchens) and Mark Theunissen (The Economist) will cover:* An introduction to The Grinder * Jython, the scripting language used for the tests. * Our custom framework. * Gathering accurate test data. * Basic functional testing in the framework. * The staging environment.</description>
+        <presenters>David Strauss</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="The exodus: leading Drupal out of CVS " author=" Damien Tournoud">
+        <description>In those times, the children of Drupal served with rigour under the law of CVS. One week the test bot was down, and a poor, bored, core committer decided to show the way out of this oppression. And there we are. Drupal.org is moving out of CVS, and you can help make this real.</description>
+        <presenters>Damien Tournoud, Derek Wright, Angie Byron</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Token for Fun and Profit in Drupal 7 " author=" Jeff Eaton">
+        <description>For years, the Token module has provided Drupal developers with a consistent, centralized API for replacing placeholders with dynamic content in user-facing text. Drupal 7 includes a new, advanced version of Token as part of core! This session will cover what's new, what's changed, and how your modules can make the transition.</description>
+        <presenters>Jeff Eaton</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Node Access in Drupal 7 " author=" Ken Rickard">
+        <description>This talk will look at the features and changes in the Node Access system for Drupal 7.Out of the box, Drupal is a great system for creating and managing content. However, there are cases where your needs require additional requirements for which users can create, view, edit and delete content. To solve this problem, Drupal provides its Node Access system.Node Access provides an API for determining the grants, or permissions, that a user has for each node. By understanding how these grants work, a module developer can create and enforce complex access rules.</description>
+        <presenters>Ken Rickard</presenters>
+      </session>
+      <session time="8:30 AM - 9:30 AM" title="Drupal Distributions on drupal.org " author=" Derek Wright">
+        <description>Since November of 2009, fully packaged Drupal distributions have been available on drupal.org. This functionality takes installation profiles to a whole new level, since finally end users can download a single file, unpack it, visit install.php and they have a fully functioning Drupal site up and running. This session will be a panel discussion about Drupal distributions, what this means for the Drupal community as a whole, and future directions and possibilities. Topics covered will include:</description>
+        <presenters>Derek Wright, Kevin Reynen, Chad Phillips</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Instant Dynamic Forms with #states " author=" Konstantin Käfer">
+        <description>The new #states system in Drupal 7’s Form API enables you to quickly add dependencies between form elements, transitions between arbitrary states of a form and on-the-fly input validation. In this talk, you’ll get to know how you can use the system to enhance your own forms without writing any boilerplate JavaScript code. All you have to do is to declare in what state your form should be when something happens—the #states system will do the rest for you!</description>
+        <presenters>Konstantin Käfer</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Drush " author=" Dmitri Gaskin">
+        <description>Drupal is awesome. But sometimes just Drupal isn't awesome enough.That's when we need drush to step in. Drush is a command-line utility for Drupal. It makes tasks such as clearing the cache, downloading new modules, updating your modules, exporting your database, etc. very simple.In this session, I'll cover Installing Drush (this can be the hardest part). Basic drush usage, as well as going through all of the (useful) commands. Installing other commands Using Drush make</description>
+        <presenters>Dmitri Gaskin</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="iPhone, Drupal, and Web Services " author=" Kyle Browning">
+        <description>Mobile Strategy is becoming critical to websites and companies who want to provide their users with more accessible and interactive information while on the go. Iphone Apps provide a great way for these organizations to adapt their content and features to an integrated mobile experience.With the rising popularity of these apps, we need a standard Drupal iPhone application or Library to begin working with when developing apps that reference Drupal content. Today's solution is a Library that leverages the power of Cocoa/obj-c and connects it to Drupal.</description>
+        <presenters>Kyle Browning</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Advanced Drush " author=" Moshe Weitzman">
+        <description>A whirlwind tour through the major features of Drush, the Drupal shell. At first, Drush is handy for greatly speeding up administration on your Drupal site. Once your ken grows, learn how to write your own Drush commands and execute commands on remote servers.The intent of this session is to show whats possible. The notes from the presentation will document all commands so just sit back and enjoy the ride.</description>
+        <presenters>Moshe Weitzman, Owen Barton, Adrian Rossouw, Greg Anderson</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Databases: The Next Generation " author=" Larry Garfield">
+        <description>Back by popular demand...Drupal 7 features a newly rewritten database layer. If you had a complaint about Drupal 6's database handling, odds are it's been fixed in spades. Multi-database support, 3 supported databases in core, more query builders than you can shake a USB stick at, Master/slave replication, transactions, a clean object-oriented Fluent API, the works!Great, so now how do I use this new-fangled gadgetry?</description>
+        <presenters>Larry Garfield</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Best practices in contrib development and support " author=" Dave Reid">
+        <description>Contributed modules and themes are fundamental to the Drupal experience, but the quality varies oh, so widely.How can we improve our development process, keep modules maintained, help maintainers, and somehow harness the explosion of modules.This forum will cover: What's expected of a module maintainer How to get help from others Finding maintainers, abandoning projects, dealing with abandoned projects Best practices in CVS (or Git!), including when to branch, and how to maintain branches</description>
+        <presenters>Dave Reid, Randy Fay, Greg Knaddison, Derek Wright, Jennifer Hodgdon</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Providing a Scalable Infrastructure for Whitehouse.gov " author=" Frank Febbraro">
+        <description>In October 2009, the official site of the President, Whitehouse.gov re-launched on Drupal. The preparation, development, and testing of the infrastructure required was an immense effort full of challenges. It was a landmark win for Drupal and did a lot to legitimize Drupal's flexibility, security and scalability to those outside of our community. This session will provide insight into the infrastructure required to power this uniquely visible and high traffic site.</description>
+        <presenters>Frank Febbraro</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="The story of RDF in Drupal 7 and what it means for the Web at large " author=" Stéphane Corlosquet">
+        <description>Drupal is leading the way by being the first major CMS to embrace RDF. After a brief introduction to the Semantic Web and its keywords (RDF, turtle, SPARQL, SIOC), we'll go through the RDF tour which lead to its integration in core, from back in 2008 when the first Drupal RDF schema proposal was published all the way to October 2009 when the main RDF patch got committed .</description>
+        <presenters>Stéphane Corlosquet, Lin Clark</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Aegir Hosting System - one Drupal to rule them all " author=" Adrian Rossouw">
+        <description>This session will illustrate the use of the Aegir hosting system to simplify the life of developers and administrators, by automating a lot of the common tasks involved in deploying sites.Aegir is a distributed provisioning system for Drupal that allows you to manage thousands of sites across as many concurrent instances of Drupal on as many servers as you need. It's built on Drupal itself, so that your user interface to the system becomes a 'meta-drupal' site, with nodes representing all of your hosted sites and all of the components of your hosting environment.</description>
+        <presenters>Adrian Rossouw</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="MongoDB - Humongous Drupal " author=" Robert Douglass">
+        <description>Drupal sites live or die by their database. For years we've accepted the strengths (and weaknesses) of RDBMS, mostly MySQL, sometimes PostgreSQL, but serious alternate contenders for storing our data have not been available. The convergence of two awesome things, Drupal 7 and MongoDB (from "humongous"), are changing that, and ushering in a new era of LAMP.</description>
+        <presenters>Robert Douglass, Damien Tournoud, chx</presenters>
+      </session>
+    </day>
+  </track>
+  <track kind="Configuration, Set-up &amp; Administration">
+    <day name="Monday">
+      <session time="9:45 AM - 10:45 AM" title="Views Examples: Using Arguments and Relationships " author=" Michelle Lauer">
+        <description>Views are a powerful way to display specific subsets of your content. From a simple list of all nodes in a single content type to a complex collection of related information, each step will be explained so you can easily repeat the strategy in your own views.I will demonstrate a systematic approach to building all views and show examples of using arguments and relationships.Topics • Systematic way to create ALL views in the GUI • What are arguments and how to use them • What are relationships and how to use them • Discussion of CCK node reference</description>
+        <presenters>Michelle Lauer</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Make Drupal Run Fast - increase page load speed " author=" Andy Kucharski">
+        <description>What does it mean when someone says "My Site is slow now"? What is page speed? How do you measure it? How can you make it faster? We'll try to answer these questions, provide you with a set of tools to use and explain how this relates to your server load.We will cover:- What is page load speed? - Tools used to measure performance of your pages and site - Six Key Improvements to make Drupal "run fast" ++ Performance Module settings and how they work ++ Caching - biggest gainer and how to implement Boost</description>
+        <presenters>Andy Kucharski</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Drupal security for site administrators and beginners " author=" Ben Jeavons">
+        <description>Drupal is a powerful tool that can be configured many ways, sometimes insecurely. Knowing popular attack vectors against your site and how to protect against them is important for everyone building a Drupal site. In this session I'll discuss some ways sites get attacked and what you can do to maintain your site's security through smart configuration and how to recover should it be attacked.About the speaker:</description>
+        <presenters>Ben Jeavons, Jakub Suchy, Greg Knaddison</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Planning and Executing a Successful Drupal Implementation " author=" Michael Morris">
+        <description>Learn how to execute best practice processes on large scale Drupal implementations. You'll hear real world examples of how to deal with detailed customer requirements, systems integration complications, tight budgets, and high expectations from stakeholders. Drupal poses particular challenges in these areas, and this panel of experienced Drupal implementers will help you navigate them with predictable results.</description>
+        <presenters>Michael Morris, Jeff Walpole, Dave Leonard</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="8:30 AM - 9:30 AM" title="Search Engine Optimization (SEO) for your Drupal site " author=" Jen Lampton">
+        <description>Drupal has a reputation for being one of the best Content Management Systems for SEO. So why isn't your site performing to the best of it's ability?In this presentation we'll do a SEO-tune-up for a basic Drupal site while explaining why each change is important. We'll show you which modules you'll need, explain how to configure them for best results, and point out some commonly overlooked Drupal features which can help improve your rankings.</description>
+        <presenters>Jen Lampton, Rob Bertholf</presenters>
+      </session>
+      <session time="8:30 AM - 9:30 AM" title="&quot;Don't Touch that Server&quot;: A toolkit for zero-touch production environments " author=" Chuck D'Antonio">
+        <description>The more access you provide to your production servers, the more risk you have of someone doing something "unexpected" either at the shell or on an administrative screen they don't full understand. A great way to address this risk is to limit access to production servers only to emergency. But how do this and still get any work done?</description>
+        <presenters>Chuck D'Antonio</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Conversion Rate Optimization (CRO) for Drupal " author=" Ben Finklea">
+        <description>Take SEO to a higher level in 2010. Follow Ben Finklea, CEO of Drupal marketing firm Volacci and author of Drupal 6 SEO as he shows how how even simple, conversion-focused adjustments to a previous, well-executed SEO initiative gives a 40-50% improvement in conversion, as experienced by a Volacci online retailing client, a health and wellness firm using Drupal 6.</description>
+        <presenters>Ben Finklea, Stephanie Pakrul</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Facebook Applications, Powered " author=" Drupal ">
+        <description>Would your website be better if it took advantage of your users' social network? What if you could present content to your users, and their friends on facebook, even if they have never visited you site? Could you attract more users if they skip registration, instead using their facebook username and password to log into your site?Facebook Apps make all of this possible, and Drupal is a great tool for building these applications.</description>
+        <presenters>Dave Cohen</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Build a Powerful Site Search with the User-Friendly, Easy-to-Install Search Lucene API Module Suite " author=" Chris Pliakas">
+        <description>Abstract:</description>
+        <presenters>Chris Pliakas</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Making Drupal Admin Simple " author=" Kelly Phong">
+        <description>This session will demonstrate techniques to build and configure Drupal websites that are easy to maintain for non-developers.Included will be: modules that provide additional functionality for administrators configuration options to make the "back-end" easier to navigate theme modifications to make editing and administration simpler We will provide examples, explain options, and give detailed "How-To's" to make your site admin-friendly for anyone needing to edit and maintain a Drupal website.</description>
+        <presenters>Kelly Phong, Erik Summerfield</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Managing and deploying configuration with exportables and the Features module " author=" Jeff Miccolis">
+        <description>This presentation will look at managing configuration in Drupal using the Features module . We'll look at how to move configuration into code using Features, and how this can make site development and deployment easier.</description>
+        <presenters>Jeff Miccolis</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Media Module: Multimedia in Drupal 7 " author=" Jody Hamilton">
+        <description>The Media module is poised to bring media in Drupal (images, video, audio, documents, etc.) into a united, powerful, and beautiful system for Drupal 7.Come see a demo of the module in action, learn how to develop additional integration, understand stream wrappers and the related file system changes that went into core Drupal 7. This session is appropriate to beginners through expert users, as this module is intended to become a standard building block of most Drupal sites.</description>
+        <presenters>Jody Hamilton, andrew morton, Katherine Senzee</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="From Ubercart to Drupal Commerce " author=" Ryan Szrama">
+        <description>Drupal Commerce is breaking new ground in Drupal based e-commerce development. In essence, Drupal Commerce is a rewrite of Ubercart's core systems by the former project lead and other major Drupal contributors based on our experience developing and building sites with Ubercart. Drupal Commerce leverages the greatest new features Drupal 7 has to offer to create a core set of e-commerce modules that are at the same time more solid internally and more flexible for the end user.</description>
+        <presenters>Ryan Szrama</presenters>
+      </session>
+    </day>
+  </track>
+  <track kind="Providing Professional Drupal Services">
+    <day name="Monday">
+      <session time="9:45 AM - 10:45 AM" title="Panel: The Many Flavors of Drupal Training " author=" Michael Anello">
+        <description>Drupal training takes on many different forms mainly depending on the goals of the students. In this panel, several Drupal trainers will discuss the various strategies employed when planning and executing Drupal training.Various types of Drupal training sessions will be discussed, including the training of in-house staff, clients, existing developers, and newbies. We'll discuss various methods of training including in-person, web-based, self-study and various combinations of the three.</description>
+        <presenters>Michael Anello, Ryan Price, Alex Urevick-Ackelsberg, Tom Geller, Jeff Robbins, Greg Knaddison, Jacob Redding</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Lullabot Case Study " author=" Liza Kindred">
+        <description>Ever wondered what goes on in the wild and wacky world at Lullabot? Come learn from one of the world's top Drupal companies - their secrets to running a successful business in the Drupal-sphere, how non-traditonal business models have helped them get ahead, and what lessons they've learned throughout the years that you can benefit from. From developing top Drupal sites (such as grammy.com and MTV.co.uk) to consulting with dozens of high-profile clients to the longest running Drupal workshops in the world, they've seen it all.</description>
+        <presenters>Liza Kindred</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Mining Social Media For Awesome Drupal Gigs " author=" Alex Kessinger">
+        <description>IntroSocial media is not always socializing on the web. It can also be about the viral spread of information between people. For well over a decade the internet has been providing a new means for communicating. For well over a decade I have been slowly learning how to grok that flow of information. Come to the sessions, and I will show you my methods for filtering the stream to get the information you want. Specifically I will talk about how to get information about Drupal, and how to pickup on interesting discussions happening in the community.</description>
+        <presenters>Alex Kessinger</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Monetizing Drupal " author=" Salim Lakhani">
+        <description>This is a panel discussion on how to move from Consulting Services to Product Development &amp; Hybrid Solutions.What should you focus on to maximize customer satisfaction ? What should you focus on to maximize your business profitability ?</description>
+        <presenters>Salim Lakhani, Chris Shattuck, Stephanie Pakrul, Michael Anello</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Going Vertical: How niche marketing can launch your Drupal business " author=" Corey Smith">
+        <description>Developing any business in a recession can be complicated at best. Vertical (or niche) marketing can allow you to focus your efforts to grow your Drupal business efficiently. In this session, you will receive key strategies on developing a vertical marketing strategy for design, development and content writing and learn practical steps you can take today to build your fledgling Drupal shop into a booming web development business in less time than you thought possible.</description>
+        <presenters>Corey Smith</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Open Source Opens Doors for Youth: a professional/nonprofit/foundation collaboration builds a youth social enterprise " author=" Jenn Sramek">
+        <description>Few youth in the "underserved, low-income" category get exposure to the practices, ethics, and expectations of contemporary high-tech businesses. Come hear how a group of sharp and feisty youths from East Palo Alto are leaping over the digital divide.The youths from EPA.net are gearing up to own and operate a for-profit business providing professional Drupal services to their community.Their first client: themselves.</description>
+        <presenters>Jenn Sramek</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="8:30 AM - 9:30 AM" title="Enterprise Architecture for Drupal " author=" Scott Mattoon">
+        <description>Implementing Drupal in a large organization presents challenges not typical of standalone implementations. Integration with enterprise infrastructure can turn a simple development effort into a complex multi-disciplinary project. This session will help you avoid the pitfalls of enterprise scale projects, and produce high value results by applying architectural discipline.</description>
+        <presenters>Scott Mattoon</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Defining and pitching your process " author=" Jon Clark">
+        <description>Effectively communicating how you work is a powerful way to convince clients to choose you. Before they make a decision, potential clients want to know what working with you will be like, and need to be confident that it will not only be effective, but that they'll be comfortable in the process. This session will offer insights into thinking through your own work process, how to communicate that to decision makers, and the key role this will play in setting client expectations for the project.</description>
+        <presenters>Jon Clark</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Strategies for Community Contributions " author=" Greg Knaddison">
+        <description>We all benefit from the thousands of dollars worth of contributions that people make to Drupal's code, infrastructure, and community but it's sometimes hard for companies and individuals to prioritize contributing back. Come and share strategies with long time Drupal community members Michael E. Meyers, Greg Knaddison, and Eric Gunderson as they discuss strategies that work, those that haven't, and the reasons for success or failure. Learn examples of small but important changes to company processes that have turned problematic programs into successful ones.</description>
+        <presenters>Greg Knaddison, Eric Gundersen, Michael E. Meyers</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="The Care and Feeding of Project Managers " author=" Amye Scavarda">
+        <description>Drupal doesn't have a lot of dedicated project managers, and it could really use more that get involved and help the community grow.In this session, we'll go through: - What makes Drupal projects hard to manage - Mitigating the 'hard to manage' qualities of our favorite CMS - Finding good project managers - Supporting project managers in your own company - Supporting project management for DrupalWe've got an all-star cast of: Wendy Iguchi of Chapter 3 Chris Strahl of Orchestra Team Crystal Williams of Workhabit</description>
+        <presenters>Amye Scavarda, Wendy Iguchi, csm, Crystal Williams</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Best Practices For Managing a Drupal Firm " author=" Glenn Hilton">
+        <description>Are you currently a sole practitioner providing Drupal services and would one day like to run your own firm? Are you a partner at an existing multi-developer firm looking for fresh ideas and suggestions? Are you interested in networking with other owners, who have a like-minded interest in building a practice around Drupal?</description>
+        <presenters>Glenn Hilton, Dave Terry, Jeff Walpole, Jon Clark, Jennifer Hols, Eric Gundersen, Ben Finklea, Liza Kindred</presenters>
+      </session>
+      <session time="8:30 AM - 9:30 AM" title="YOU SHALL NOT PASS: Managing Expectations and Boundaries of Clients " author=" Chris Strahl">
+        <description>We all struggle to maintain the scope of projects, but it's sometimes difficult to tell a client "no". After all, they're the ones paying you, and they want you to deliver exactly what is in their head. It's not simple to manage their expectations, but not doing it can sink a project.This session is going to go into the motivations behind clients pushing on companies to deliver more. It's also going to talk about why and how you should push back in order to ultimately create a better experience for everyone on the project.</description>
+        <presenters>Chris Strahl, Amye Scavarda</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="From a contractor to a shop: How to make the leap " author=" Alex Urevick-Ackelsberg">
+        <description>This panel will be hosted by a number of business leaders at Drupal companies, and will at the some of the challenges of becoming a "Drupal shop." We will examine some of the issues we've faced as we've grown, and explore how we've dealt with them, such as:</description>
+        <presenters>Alex Urevick-Ackelsberg, Lior Kesos, Zack Rosen, Aaron Pava, Chris Bryant</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Best Practices for Freelancers and One-Person Shops " author=" Jared Stoneberg">
+        <description>If you're a freelancer or one-person shop, this session will provide some insight into how your fellow freelancers tackle common problems that you either are facing, or will face in the future. This session will be in panel format, and while several Drupal freelancers will be up in the front for the session, audience members are encouraged to participate, asking questions and helping give additional perspectives. Some topics that are likely to be covered are:</description>
+        <presenters>Jared Stoneberg, Jennifer Hodgdon, Josh Kopel</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="How to build a Jobs Aggregation Search Engine with Nutch, Apache Solr and Views 3 in about an hour " author=" David Stuart">
+        <description>Nutch is an open web crawler that lets you do fine grained or Internet wide web crawling. In this session I will introduce you to the Drupal Nutch module, which will help with the setup and control of your crawls. We will combine this with some of the new features in the Apache Solr, Views 3 and Apache Solr views to create hybrid search engine vertical that interleaves your content with supporting web content.The Agenda will be:1. An introduction to the Apache Nutch crawler 2. An introduction to the Features of the Drupal Nutch module</description>
+        <presenters>David Stuart</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Virtual Teams and the Enterprise. Virtually Impossible? " author=" Michael Caccavano">
+        <description>Working virtually has obvious appeal for agencies and employees...reduced overhead, no commute, and all the comforts of home. The reality, however, is more complex. How can the virtual manager maintain camaraderie, morale, and work standards? And what does the virtual team mean for clients...can a team spread across the country--or around the world--be trusted with mission-critical, enterprise-level web projects?This session will draw from our experience migrating Tree House Agency from a company with an office and a couple of virtual team members to one that is almost completely virtual. We will share the tools, techniques, and methods that we have used to overcome the challenges of doing so while continuing to serve our enterprise-level clients.</description>
+        <presenters>Michael Caccavano, Nicole Lind</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Beyond Budget and Scope: Managing Client Expectations and Delivering Value " author=" Vanessa Turke">
+        <description>Many projects begin with by ambiguous needs, unclear priorities, mind-changing customers, and of course, a tight deadline. There are tools to monitor budget and schedule, but failure to manage client expectations often results in frustrating miscommunications and serious consequences for projects and business relationships. Come away with a some ideas for modifying your current process to involve clients in a way that encourages healthy collaboration and lets your team work in a productive manner.</description>
+        <presenters>Vanessa Turke</presenters>
+      </session>
+    </day>
+  </track>
+  <track kind="Leveraging Drupal for your business">
+    <day name="Monday">
+      <session time="11:00 AM - 12:00 PM" title="The state of Drupal as a Web Application &amp; Product Platform " author=" Alex Urevick-Ackelsberg">
+        <description>While Drupal is usually thought of in terms of Web Sites, many companies and Drupal shops are using the framework to build Web Applications/Products. This panel will look at some of the Products being built on Drupal and will discuss the potential business benefits of building a Web Application on Drupal, from the perspective of Drupal Shops looking to expand beyond a strictly service based business as well as from the vantage point of businesses who are looking for a platform to build their Products with.Some of the Products/Applications that will be examined include:</description>
+        <presenters>Alex Urevick-Ackelsberg, Eric Gundersen, Zack Rosen, Irakli Nadareishvili, Chris Brookins</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Case Studies in Social Commerce: Waste Management's Greenopolis &amp; Mattel.com " author=" Rohit Anabheri">
+        <description>This session will unveil how the Waste Management (WM) Information Technology organization adopted Drupal as a key technology for web site development. Waste Management, a fortune 200 company, is the U.S., Canada and Puerto Rico leading provider of comprehensive waste and environmental services, collecting approximately 66 million tons of solid waste annually from nearly 20 million residential, municipal, commercial and industrial customers.</description>
+        <presenters>Rohit Anabheri</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Enterprise trends: Analyst panel - CMS experts " author=" jacob.morgan">
+        <description>Jacob Morgan, from the Chess Media group, will lead a panel of enterprise social media analysts and experts to discuss what the upcoming trends in enterprise collaboration are. These trends include: * Popular social media channels will keep growing for brand marketers * Mobile and Geo marketing will grow * Internal community marketing will increase to improve collaboration and help generate new content * External branded community sites will grow but will need to integrate with many URLs for the brand</description>
+        <presenters>jacob.morgan</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Case Studies in Publishing: Time Out NY and Taunton Press " author=" Jay Hartley">
+        <description>As content publishers make the shift from traditional channels to online, many are finding that their current websites are unable to handle the increased quantity and depth of content required to keep audiences engaged. In addition, content publishers looking to integrate social media and collaboration tools into their website will face challenges when working with legacy content management systems (CMS) which are limited in functionality and were not designed with the today’s social media requirements in mind.</description>
+        <presenters>Jay Hartley, Anna Murray</presenters>
+      </session>
+      <session time="5:30 PM - 6:30 PM" title="Adopting a Standard for Enterprise Social Publishing case study: Florida Hospital " author=" Rick Mann">
+        <description>How Florida Hospital has standardized on Drupal as a Web platform both inside the organization with more than 80 departmental websites and outside the organization on their public facing web properties. Dealing with between 80 - 100 sites, 15,000 employees, and living in the non profit world presents it's challenges. Come here how Florida Hospital streamlined their web platform, increased their ROI, put power in the hands of their content creators, and expanded their reach into the community. Topics include:* business justification * ROI</description>
+        <presenters>Rick Mann, David Oakley</presenters>
+      </session>
+    </day>
+    <day name="Tuesday">
+      <session time="9:45 AM - 10:45 AM" title="Case Studies in Academia: Drupal at ASU &amp; John Hopkins Knowledge for Health " author=" Jeff Beeman">
+        <description>Arizona State University's Web Consulting Services discuss the past, present and future of Drupal at a major educational institution. From the relative chaos that was the ASU web presence in 2006, to its large dependence on Drupal today, this session will cover the trials and successes of Drupal adoption on campus. Topics include: Overcoming political obstacles Evangelizing Drupal on campus Establishing a hosting infrastructure Supporting the ASU Drupal community Mistakes and accidental triumphs</description>
+        <presenters>Jeff Beeman</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Drupal Gardens: Design to online in 15 minutes " author=" Dries Buytaert">
+        <description>Come hear from Acquia's co-founder and CTO Dries Buytaert about Acquia's newest product, Drupal Gardens. Drupal Gardens is a SAS version of Drupal 7, where you can go from design to online in 15 minutes. This Drupal Gardens update will showcase the latest features that have been added to the product, including improvements to the theme builder, template chooser, media library and more. Gardens' "Socially Smart" and Community centric features will also be a main focus of this session.Attendees will: • Get a demo of Drupal Gardens</description>
+        <presenters>Dries Buytaert, Linea Rowe</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Social Analytics for 120 Warner Bros. Records Artist sites " author=" Ethan Kaplan">
+        <description>Warner Bros. Records had a need for a system to "manage" all the data, statistics and API calls taking place between all of their 120+ Drupal sites and systems they depend on. To address this, WBR along with Gravitek Labs developed a system called Digital Detail, a platform for data routing, storage, analysis and maintenance.In this session we'll go through Digital Detail, how it was made, strategies behind it and where we're taking it.We will cover: - Architectural challenges with Digital Detail - How we query databases from 100+ sites at once</description>
+        <presenters>Ethan Kaplan</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="Drupal Publisher's Panel " author=" Jeff Walpole">
+        <description>Online News is a natural fit for Drupal. Publications of all types from newspapers, magazines, trade publications and journals have used Drupal aggressively to better showcase breaking news, analysis, features, blogs and user generated content. These publishers become avid fans and some of the best evangelists of Drupal because it answers so many of their growing needs.</description>
+        <presenters>Jeff Walpole</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Case Studies in Non Profits: Jane Goodall and Musescore " author=" Michael Haggerty">
+        <description>MuseScore is open source music notation software and musescore.org is its home. It is a full featured Drupal website and it grows the MuseScore user &amp; developer community. This session will reveal how the MuseScore adoption grew 1000% in one year time and how this can be attributed to Drupal.</description>
+        <presenters>Michael Haggerty, Thomas Bonte</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="An enterprise approach to securing your Drupal sites " author=" Chuck D'Antonio">
+        <description>Like any new technology, introducing Drupal into your organization is bound to raise questions and objections from a host of vested interests. One of the initial objections is often security. This concern is often more acute when your organization doesn't have a history with the rest of the stack -- so Linux, PHP, MySQL, and/or Apache are new and unknown as well.</description>
+        <presenters>Chuck D'Antonio, Jason Ingalls</presenters>
+      </session>
+    </day>
+    <day name="Wednesday">
+      <session time="8:30 AM - 9:30 AM" title="Shh! This is a (Drupal-powered) Library Site! " author=" Katherine Lynch">
+        <description>Libraries are growing into new joint entities -- the library as a place, and the library as a resource. Library websites serve as a resource, delivering tools for learning to patrons and students in an academic setting. Drupal is an ideal tool for facilitating the specialized tasks that many library developers have to complete.In this session, attendees will learn about: Using the built-in architecture of Drupal 6 and Drupal 7 to meet the goals of library websites The 10 best modules for library websites</description>
+        <presenters>Katherine Lynch, Amy Qualls-McClure, Tammy Allgood</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Developing Apps for iPhone/iPad/Android using drupal as Base System " author=" Sumit Kataria">
+        <description>With launch of iPad and NexusOne - iPhone/Android application market can't be ignored. Both these technologies has great potential to use our existing web based tools such as drupal. You can totally use drupal to manage/update your iPhone/Android native application.Some iPhone/drupal stuff I wrote in past at: http://civicactions.com/blog/sumitThis session is about building native iPhone/iPad/Android applications using opensource web based technologies ( http://www.appcelerator.com ) with drupal as base system to manage: content, users, views, permissions etc.</description>
+        <presenters>Sumit Kataria, Aaron Pava</presenters>
+      </session>
+      <session time="9:45 AM - 10:45 AM" title="Harnessing Drupal for Your Next Web Project " author=" Drew Gorton">
+        <description>Drupal is an incredible tool that powers a tremendous range of successful websites. However, getting what's right for your website can be overwhelming; especially when Drupal makes so much possible. And, no matter what the size of your project relative to the size of your organization, it will involve at least some time, money and effort, none of which are good to waste.If Drupal looks like a fit for your organization, this session should help prepare you to make the leap. Topics this panel will cover include:</description>
+        <presenters>Drew Gorton, Michael Caccavano, Bill Fitzgerald, Eric Gundersen</presenters>
+      </session>
+      <session time="11:00 AM - 12:00 PM" title="The Future of Drupal in Government " author=" Jeff Walpole">
+        <description>In the past year, there has been much discussion about Drupal as a platform to serve Government. As we strive to help governments improve efficiency, transparency, accountability, and participation, it becomes more apparent that Drupal is naturally equipped to solve many of these challenges. But at the same time, there are incredible counter-forces at play, and implementers need to be aware of them. For instance: transparency is at odds with security, participation is at odds with privacy, etc.</description>
+        <presenters>Jeff Walpole, Chuck D'Antonio</presenters>
+      </session>
+      <session time="3:00 PM - 4:00 PM" title="Building a viral marketing and customer rewards e-commerce site " author=" Mike O'Connor">
+        <description>You have a killer product - best in its class. You build a great website with the best CMS in the world (Drupal of course!) You make a slick jQuery widget that makes people go "oooh!" But you have no money to waste on expensive advertising and marketing. How then, do you increase sales exponentially and let your customers do all the talking?</description>
+        <presenters>Mike O'Connor, Robert Douglass</presenters>
+      </session>
+      <session time="4:15 PM - 5:15 PM" title="Enterprise Content Management With Drupal, Alfresco and CMIS " author=" Chris Fuller">
+        <description>Drupal is the CMS that we all know and love but sometimes it's just not enough. For enterprise clients, marrying web content management, document management, robust workflow, security and enterprise search sounds like a recipe to rule out Drupal. Yet, pure ECM systems can often be expensive, monolithic and less than adept at providing WCM and community features.</description>
+        <presenters>Chris Fuller, Jeff Potts</presenters>
+      </session>
+    </day>
+  </track>
+</schedule>
